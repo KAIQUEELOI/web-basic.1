@@ -1,0 +1,79 @@
+
+.topo{
+
+    background-color: rgb(248, 205, 140);
+    width: 100%;
+    height: 100%;
+    border: 4px solid #733a00;
+    border-radius: 20px;
+}
+
+h2{text-align: center;}
+h3{text-align: center;}
+
+.texto{
+    background-color: #e39b52;
+    border: 2px solid rgb(120, 64, 16);
+    border-radius: 10px;
+    width: 200px;
+    justify-self: center;
+    
+}
+p{
+    text-align: center;
+}
+
+.maça{
+    background-color: aliceblue;
+    height: 300px;
+    width: 300px;
+
+    
+}
+.img1{
+    justify-self: center;
+  
+}
+.morango{
+    display: inline;
+    background-color: white;
+}
+.img2{ 
+    justify-self: center;
+   
+}
+
+.abacaxi{
+    background-color: aliceblue;
+    display: block;
+    
+}
+.img3{
+    justify-self: center;
+}
+.abacate{}
+.img4{
+    justify-self: center;
+}
+.manga{}
+.img5{
+    justify-self: center;
+}
+.uva{}
+.img6{
+    justify-self: center;
+}
+.botao{
+    background-color: rgb(101, 222, 61);
+    border:2px solid green;
+    width: 110px;
+    height: 50px;
+    border-radius: 10px;
+    
+    justify-self: center;
+
+}
+
+.icon1{
+    height: 20px;
+}
